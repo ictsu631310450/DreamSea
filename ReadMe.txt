@@ -1,0 +1,26 @@
+4/12/65
+Player Move/Run/Walk/Camara
+Flashright 
+	-Pass [F] on/off
+LightHub
+
+Problem
+Shift to run จะให้มีเวลาจำกัดแต่ อยู่เฉยๆกด Shift เวลาก็ยังลด
+
+By Game450
+
+
+
+5/12/65
+fix  Shift to run * 2[Code ยังใช้งานได้ แต่ประสืทธิภาพไม่ดีพอ]
+add ปล่อย Shift สเตมิน่าเพิ่ม /2		//ลดไว เพิ่มช้า
+add Bateryitem เก็บ
+
+By Game450
+
+
+11/12/65
+ADD AI 
+ADD crouching 
+
+By Game450
