@@ -22,5 +22,12 @@ By Game450
 11/12/65
 ADD AI 
 ADD crouching 
+Fix AI
+add Locker >> add cooldown วิ่งๆอยู่ไม่สามารถแอบต่อหน้าต่อตาได้
+fix Look Ai เป็น Cone
+กำลังทำ Loker ปัญหา Warp เข้าไปแอบไม่ค่อยได้
 
 By Game450
+
+
+
