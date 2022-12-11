@@ -26,6 +26,7 @@ Fix AI
 add Locker >> add cooldown วิ่งๆอยู่ไม่สามารถแอบต่อหน้าต่อตาได้
 fix Look Ai เป็น Cone
 Add ระบบเก็บไอเทม แบบ หมุนดูได้ 
+Add AI1 AND AI2
 
 กำลังทำ Loker ปัญหา Warp เข้าไปแอบไม่ค่อยได้
 
