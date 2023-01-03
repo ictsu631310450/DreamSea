@@ -33,4 +33,11 @@ Add AI1 AND AI2
 By Game450
 
 
+3/1/66
+Add Model Scene ก่อนเข้าเกม 
+เอา ย่อตัว Player ออก รอ Animation Player มาใส่แทน
+add กล้องขยับไฟฉายขยับ
+
+
+
 
